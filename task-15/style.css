@@ -1,0 +1,84 @@
+html {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    -webkit-box-sizing: inherit;
+            box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(/images/1616611383_35-p-tekhnologichnii-fon-42.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgb(233, 142, 142); */
+  }
+  
+  .products {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  .products__title {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+  }
+  
+  .products__inner {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+
+  .products__item {
+    background-color: #f7f7f7;
+    width: 300px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+  }
+
+ img {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 25px;
+    -o-object-fit: contain;
+       object-fit: contain;
+    border-radius: 5px;
+  }
+
+
+  /* .products__item-info {
+    margin: 0;
+    font-size: 15px;
+  } */
+
+  .products__item-text {
+    font-size: 15px;
+    line-height: 1.4;
+  }
+
+  .name {
+      color: white;
+      font-size: 300%;
+      text-align: center;
+  }
+
+  hr {
+      color: rgb(117, 86, 86);
+      border: 0.25px solid rgb(115, 108, 108);
+      margin-bottom: 35px;
+  }

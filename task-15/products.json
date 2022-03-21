@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Ноутбук Sony Vaio VPC-YB2L1R AMD Fusion E-350",
+      "category": "ноутбуки",
+      "price": 19950,
+      "img": "https://www.kivano.kg/images/product/68352/full/1622355077_67139000.png",
+      "desc": "Процессор: E-350 Частота процессора: 1600 МГц Объем жесткого диска: 320 ГБ Диагональ экрана: 11.6, Видеокарта: ATI Radeon HD 6310M Вес: 1.46 кг Оптический привод: DVD нет Bluetooth: есть Wi-Fi: есть"
+    },
+    
+    {"id": 6,
+        "title": "Сотовый телефон Apple iPhone 12 128GB черный",
+        "category": "смартфоны",
+        "price":  73610 ,
+        "img": "https://www.kivano.kg/images/product/85005/full/1643526274_78712300.png",
+        "desc": "iOS 14, поддержка SIM-карт (nano SIM+eSIM), экран 6.1, разрешение 2532x1170, двойная камера: сверхширокоугольная (12 МП), широкоугольная, процессор Apple A14 Bionic, память 128 ГБ, без слота для карт памяти, 3G, 4G LTE, 5G, LTE-A, Wi-Fi, Bluetooth, NFC, вес 164 г, ШxВxТ 71.50x146.70x7.40 мм."
+     
+    },
+    {
+      "id": 3,
+      "title": "43 N5300 Series 5 Плоский Full HD телевизор",
+      "category": "tv",
+      "price": 128700,
+      "img": "https://images.samsung.com/is/image/samsung/africa-en-fhdtv-n5300-ua43n5300akxke-frontblack-227128859?$684_547_PNG$",
+      "desc": "Анализируя исходный контент с помощью продвинутого алгоритма, Ultra Clean View дает вам изображения более высокого качества с меньшими искажениями. Наслаждайтесь четкой картинкой."
+    },
+    {
+        "id": 4,
+        "title": "Телевизор Samsung QE55Q77AAUXCE",
+        "category": "tv",
+        "price": 108310,
+        "img": "https://www.kivano.kg/images/product/98906/full/1633425521_71962000.jpg",
+        "desc": "Тип ЖК-телевизор; Диагональ экрана 55″ - 139,7см; Разрешение 3840x2160 (4K UHD); Технология QLED 4K; Smart TV Да; Операционная система Tizen; Поддержка HDR Да; Тип экрана Прямой; Тип подсветки QLED; Цвет Черный."
+      },
+      {
+        "id": 5,
+        "title": "Компьютер офисный",
+        "category": "ноутбуки",
+        "price":  25660,
+        "img": "https://www.kivano.kg/images/product/22575/22575_full.jpg",
+        "desc": "Процессор:  LGA1150 Intel Celeron Dual Core G1840 2.8Ghz; Оперативная память: DDR3 2048MB; Материнская плата: MB ASROCK H81M-VG4 LGA1150; Монитор: ACER 18,5 V196HQL; Жесткий диск: Toshiba  500GB; Клавиатура+мышь: Genius KM-110X+NS120."
+      },
+      {
+        "id": 2,
+        "title": "Xiaomi Mi 11 Lite",
+        "category": "смартфоны",
+        "price": 28700,
+        "img": "https://www.kivano.kg/images/product/92416/full/1635945551_75038600.jpg",
+        "desc": "Экран: 6.55 (2400x1080) 90 Гц, оперативная память: 8 ГБ, память: 128 ГБ, слот для карты памяти, 3 камеры: 64 МП, 8 МП, 5 МП, аккумулятор: 4250 мА·ч, процессор: Qualcomm Snapdragon 780G, SIM-карты: 2 (nano SIM), операционная система: Android 11, беспроводные интерфейсы: NFC, Wi-Fi, Bluetooth 5.1, интернет: 5G, 4G LTE, вес: 159 г."
+
+        
+      }
+]
